@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+whisper
+torch
+openai
+ffmpeg-python
+transformers
